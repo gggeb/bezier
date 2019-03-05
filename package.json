@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "js bezier curve demonstration",
   "main": "src/index.js",
-  "homepage": "gggeb.github.io/bezier",
+  "homepage": "https://gggeb.github.io/bezier",
   "repository": {
     "type": "git",
     "url": "https://github.com/gggeb/bezier.git"

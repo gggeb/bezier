@@ -1,3 +1,3 @@
 BEZIER
 ======
-just go [here](gggeb.github.io/bezier)
+just go [here](https://gggeb.github.io/bezier)
